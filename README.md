@@ -1,7 +1,7 @@
 # Projeto Termometro
 - Desenvolvido na aula de sistemas embarcados
 
-![Captura de Tela (136)](https://user-images.githubusercontent.com/85001629/178113702-7cf35bee-0991-4e41-bf15-f47ddc460866.png)
+![print](https://user-images.githubusercontent.com/85001629/178154516-afb66060-41d1-426d-bfb6-0a0b514baaff.png)
 
 # 💼 Tecnologias utilizadas
 
